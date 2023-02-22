@@ -1,0 +1,5 @@
+D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\win-x64\PubTmp\Out\Hometask2.pdb
+D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\win-x64\PubTmp\Out\Hometask2.exe

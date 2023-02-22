@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Filnar\_Work\radency\Hometask2\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-02-22T20:04:08.8803698Z;True|2023-02-22T21:59:14.1375249+02:00;False|2023-02-22T21:57:49.6313689+02:00;True|2023-02-22T21:41:47.6810517+02:00;True|2023-02-22T21:14:30.6298081+02:00;True|2023-02-22T21:12:49.5114030+02:00;True|2023-02-22T21:11:20.0731445+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
