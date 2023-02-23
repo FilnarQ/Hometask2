@@ -382,3 +382,4 @@ D:\Filnar\_Work\radency\Hometask2\bin\Release\net6.0\win-x64\mscorrc.dll
 D:\Filnar\_Work\radency\Hometask2\bin\Release\net6.0\win-x64\msquic.dll
 D:\Filnar\_Work\radency\Hometask2\bin\Release\net6.0\win-x64\ucrtbase.dll
 D:\Filnar\_Work\radency\Hometask2\bin\Release\net6.0\win-x64\aspnetcorev2_inprocess.dll
+D:\Filnar\_Work\radency\Hometask2\bin\Release\net6.0\win-x64\FluentValidation.dll

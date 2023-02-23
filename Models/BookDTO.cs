@@ -1,4 +1,6 @@
-﻿namespace Hometask2.Models
+﻿using FluentValidation;
+
+namespace Hometask2.Models
 {
     public class BookDTO
     {
@@ -17,5 +19,12 @@
         public string Content { get; set; }
         public decimal Rating { get; set; }
         public IEnumerable<Review> Reviews { get; set; }
+    }
+    public class OrderValidator : AbstractValidator<string>
+    {
+        public OrderValidator()
+        {
+            RuleFor(x => x).Must(x => x == "author" || x == "title" || x == "").WithMessage("Can be ordered by author or title only");
+        }
     }
 }

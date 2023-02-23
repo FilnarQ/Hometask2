@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "P/q3C8B7hC3E4XB2wnl74idIDR0POBxGRzxlTxqzSdEW26IphLLcYYoS7BEwqvZzIe5Kca/A/udFwkAwBOxdBw==",
+  "dgSpecHash": "z7+dpt0y4ieFVIBakgZMjsNY3T2G+uSnICspMfBuBHUN/3RHSZ+qmYXmVl28YNVmVieEvXgY3Lxocf+2RKtxrQ==",
   "success": true,
   "projectFilePath": "D:\\Filnar\\_Work\\radency\\Hometask2\\Hometask2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",

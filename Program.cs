@@ -3,6 +3,7 @@ using Hometask2.Models;
 using Hometask2.Contexts;
 using Hometask2.Services;
 using Hometask2;
+using FluentValidation;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,10 @@ builder.Services.Configure<Config>(builder.Configuration.GetSection(Config.Confi
 builder.Services.AddControllers();
 builder.Services.AddScoped<BookContext, BookContext>();
 builder.Services.AddScoped<BooksService, BooksService>();
+builder.Services.AddScoped<IValidator<Rating>, RatingValidator>();
+builder.Services.AddScoped<IValidator<Review>, ReviewValidator>();
+builder.Services.AddScoped<IValidator<Book>, BookValidator>();
+builder.Services.AddScoped<IValidator<string>, OrderValidator>();
 builder.Services.AddDbContext<BookContext>(opt => opt.UseInMemoryDatabase("Books"));
 builder.Services.AddHttpLogging(logging =>
 {

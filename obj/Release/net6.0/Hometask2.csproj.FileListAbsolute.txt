@@ -36,3 +36,4 @@ D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\refint\Hometask2.dll
 D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\Hometask2.pdb
 D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\Hometask2.genruntimeconfig.cache
 D:\Filnar\_Work\radency\Hometask2\obj\Release\net6.0\ref\Hometask2.dll
+D:\Filnar\_Work\radency\Hometask2\bin\Release\net6.0\FluentValidation.dll
